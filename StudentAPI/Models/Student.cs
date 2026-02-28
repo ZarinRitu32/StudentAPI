@@ -2,8 +2,8 @@
 {
     public class Student
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
         public string Name { get; set; }
-        public string Dept { get; set; }
+        public string Email { get; set; }
     }
 }
