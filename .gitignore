@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+*.vs/
+*.vscode/
+appsettings.Development.json
+*.db
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Docker / container artifacts (if exist)
+docker-compose.override.yml
+Dockerfile
